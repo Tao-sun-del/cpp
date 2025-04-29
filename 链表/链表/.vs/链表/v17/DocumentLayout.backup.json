@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\GitHub\\\u94FE\u8868\\\u94FE\u8868\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E452B59D-C7C9-4DAE-9B27-76E09C095DE1}|\u94FE\u8868\\\u94FE\u8868.vcxproj|C:\\Users\\lenovo\\Desktop\\GitHub\\\u94FE\u8868\\\u94FE\u8868\\\u94FE\u8868\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E452B59D-C7C9-4DAE-9B27-76E09C095DE1}|\u94FE\u8868\\\u94FE\u8868.vcxproj|solutionrelative:\u94FE\u8868\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\GitHub\\\u94FE\u8868\\\u94FE\u8868\\\u94FE\u8868\\FileName.cpp",
+              "RelativeDocumentMoniker": "\u94FE\u8868\\FileName.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\GitHub\\\u94FE\u8868\\\u94FE\u8868\\\u94FE\u8868\\FileName.cpp*",
+              "RelativeToolTip": "\u94FE\u8868\\FileName.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T02:50:52.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
