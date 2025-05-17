@@ -81,3 +81,22 @@ int main()
 	freelist(L);
 	return 0;
 }
+//不带头结点
+list* initlist()
+{
+	list* head = NULL;
+	return head;
+}
+list* tailinsert(list* L, int x)
+{
+	list* newcode = (list*)malloc(sizeof(list));
+	newcode->data = x;
+	newcode->next = NULL;
+	list* p = L;
+	if (p = NULL)return newcode;
+}
+int main()
+{
+	list* L = initlist();
+	L = tailinsert(L,3);
+}
